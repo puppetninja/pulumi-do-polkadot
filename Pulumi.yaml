@@ -1,0 +1,6 @@
+name: pulumi-do-polkadot
+runtime:
+    name: go
+    options:
+        binary: pulumi-do-polkadot
+description: A Go Pulumi program to deploy polkadot validator on digital ocean k8s engine

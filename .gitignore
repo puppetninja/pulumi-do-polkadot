@@ -1,0 +1,5 @@
+# vendor folder
+vendor
+
+# go build output
+pulumi-do-polkadot
